@@ -1,5 +1,5 @@
 # CPSC
-All CPSC projects
+
 For this assignment, we will be working with the Titanic Data Set from Kaggle. This is a very famous data set and very often is a student's first step in Data Analytics!
 
 The Dataset has been provided in D2L. We had to download the .csv file from the assignment folder. The second part of assignment 3 has 50 points.
